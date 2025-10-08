@@ -1,0 +1,21 @@
+/*colby king assignment 7*/
+.whiteFillBlackStroke {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+#redGreen {
+    -fx-fill: red;
+    -fx-stroke: green;
+    -fx-stroke-width: 2;
+}
+
+#circleborder {
+    -fx-stroke-width: 5;
+    -fx-stroke-dash-array: 12 2 4 2;
+}
+#border {
+    -fx-border-color: black;
+    -fx-border-width: 5;
+}
